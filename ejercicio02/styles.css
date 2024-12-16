@@ -1,0 +1,33 @@
+
+/* CSS EJERCICIO 2 */
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto';
+    padding: 20px;
+}
+
+.card{
+
+    display: inline-block;
+    max-width: 300px;
+    height: 250px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color:beige;
+    box-sizing: border-box;
+    
+}
+h2{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 16px;
+    
+}
